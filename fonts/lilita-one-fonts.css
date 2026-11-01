@@ -1,0 +1,7 @@
+@font-face {
+  font-family:'Lilita One';
+  src:url('../assets/font/lilita-one.woff2') format('woff2');
+  src:url('../assets/font/lilita-one.woff') format('woff');
+  font-style: normal;
+  font-stretch: normal;
+}
